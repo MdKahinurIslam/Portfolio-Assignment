@@ -1,0 +1,202 @@
+/* Banner Part Start */
+#banner_part{
+    background: url(../images/banner3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 150px;
+    display: flex
+}
+.banner_text{
+    text-align: right;
+    margin-left: 800px;
+}
+.banner_text h1{
+    color: #fff;
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+.banner_text p{
+    color: #fff;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    line-height: 22px;
+    margin-bottom: 50px;
+}
+.banner_text a{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    background-color: #fff;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: rgba(12, 113, 214);
+    border-radius: 5px;
+}
+/* Banner Part End */
+
+/* Banner Part Start */
+#success_part{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.success_story{
+    display: flex;
+}
+.img_part{
+    margin-left: 100px;
+}
+.text_part{
+    margin-top: 175px;
+    margin-left: 100px;
+}
+.success_story h3{
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+.success_story p{
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    line-height: 22px;
+    color: rgb(95, 91, 91);
+}
+span{
+    margin-left: 10px;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    line-height: 22px;
+    color: rgb(97, 94, 94);
+}
+
+
+/* success Part End  */
+
+
+/* Plan Part Start */
+.heading h3{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+.my_plan{
+    display: flex;
+    margin-left: 100px;
+    text-align: center;
+}
+.text h3{
+    font-size: 23px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+.text p{
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: rgb(126, 122, 122);
+}
+.icon_one{
+    margin-left: 85px;
+}
+/* Plan Part End */
+
+/* Positive Part Start */
+#posi{
+    margin-top: 60px;
+    background-image: url(../images/watch.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 70%;
+    border-radius: 5px;
+}
+.positive{
+    padding-top: 20px;
+    padding-bottom: 40px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-image: linear-gradient(to right, rgba(12, 113, 214, 0.87) , rgba(255, 255, 2, 0.11)) ;
+}
+.positive_text h3{
+    margin-left: 230px;
+    color: #fff;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+.positive_text a{
+    margin-left: 230px;
+    color: rgb(12, 108, 197);
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    background: #fff;
+    padding: 15px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+/* Positive Part End */
+
+/* Footer Part Start */
+#foot_sec{
+    background-color: rgb(32, 29, 29);
+    margin-top: 40px;
+}
+.footer{
+    padding-top: 80px;
+    padding-bottom: 60px;
+    padding-left: 200px;
+    display: flex;
+}
+.left_footer h3{
+    color: #fff;
+    font-size: 35px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+.left_footer{
+    color: rgb(196, 189, 189);
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    line-height: 22px;
+}
+.right{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.right input{
+    color: #fff;
+    background: transparent;
+    border: 2px solid rgb(161, 151, 151);
+    border-radius: 5px;
+    padding: 15px 80px 15px 20px;
+    margin-bottom: 30px;
+}
+.right h3{
+    color: #fff;
+    font-size: 25px;
+}
+.right a{
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: rgb(255, 245, 245);
+    text-decoration: none;
+    background: rgb(13, 114, 230);
+    padding: 12px 18px;
+    border-radius: 5px;
+}
+.f_icon img{
+    margin-right: 15px;
+}
+
+/* Footer Part End */
+
